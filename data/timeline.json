@@ -1,23 +1,61 @@
 [
     {
         "order": 1,
-        "era": "",
+        "era": "Man Who Sold The World",
         "albums": [
             {
-                "title": "",
-                "filename": "boy.txt",
-                "songs": [],
+                "title": "David Bowie",
+                "filename": "davidbowie.txt",
+                "songs": [
+                    "Space Oddity",
+                    "Unwashed and Somewhat Slightly Dazed",
+                    "Letter to Hermione",
+                    "Cygnet Committee",
+                    "Janine",
+                    "An Occasional Dream",
+                    "Wild Eyed Boy from Freecloud",
+                    "God Knows I'm Good",
+                    "Memory of a Free Festival"
+                ],
+                "background": [
+                    "The music on David Bowie has been described as folk rock and psychedelic rock, with elements of country and progressive rock. Biographer David Buckley writes that: 'Bowie was still reflecting the governing ideologies of the day and the dominant musical modes...rather than developing a distinct music of his own.'",
+                    "Kevin Cann finds the musical ground on the album to encompass 'a fusion of acoustic folk leanings with a growing interest in electric rock'. Cann continues that David Bowie marked a turning point for the artist, in that lyrically he began 'drawing on life' rather than writing 'winsome stories'.",
+                    "Spitz considers the album to be Bowie's first 'heavy' record and also one of his darkest, due to the death of his father. He writes that it reflects the artist's 'darkening vision' and depicts 'a man coming of age in a world that is increasingly depraved and barren'.",
+                    "Susie Goldring of BBC Music calls David Bowie a 'kaleidoscopic album [that] is an amalgamation of [Bowie's] obsessions – directors, musicians, poets and spirituality of a distinctly late-60s hue'."
+                ],
+                "releaseMonth": "November",
+                "releaseYear": 1969,
                 "cover": "",
-                "background": [],
-                "releaseMonth": "",
-                "releaseYear": 1980,
-                "link": ""
+                "link": "https://en.wikipedia.org/wiki/David_Bowie_(1969_album)"
             },
+            {
+                "title": "The Man Who Sold the World",
+                "filename": "manwhosoldtheworld.txt",
+                "songs": [
+                    "The Width of a Circle",
+                    "All the Madmen",
+                    "Black Country Rock",
+                    "After All",
+                    "Running Gun Blues",
+                    "Saviour Machine",
+                    "She Shook Me Cold",
+                    "The Man Who Sold the World",
+                    "The Supermen"
+                ],
+                "background": [
+                    "The Man Who Sold the World was a departure from the largely acoustic and folk rock sound of Space Oddity. According to music critic Greg Kot, it marked Bowie's change of direction into hard rock. Stephen Thomas Erlewine of AllMusic described the album as 'almost all hard blues rock or psychedelic folk rock', while Doggett writes that it is 'filled with propulsive hard rock'. Much of the material has a distinct heavy metal edge that distinguishes it from Bowie's other releases, and has been compared to contemporary acts such as Led Zeppelin and Black Sabbath. According to Marc Spitz, Ronson was intent to make a heavy blues album 'worthy of Cream.'",
+                    "Like the music, the lyrics are significantly darker than its predecessor."
+                ],
+                "releaseMonth": "November",
+                "releaseYear": 1970,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/David_Bowie_(1969_album)"
+            }
         ],
         "mood": "",
         "sytle": "",
-        "start": 1980,
-        "end": 1984,
+        "start": 1967,
+        "end": 1972,
         "image": "postpunk.svg",
         "className": ""
     }

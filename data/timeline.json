@@ -1,0 +1,24 @@
+[
+    {
+        "order": 1,
+        "era": "",
+        "albums": [
+            {
+                "title": "",
+                "filename": "boy.txt",
+                "songs": [],
+                "cover": "",
+                "background": [],
+                "releaseMonth": "",
+                "releaseYear": 1980,
+                "link": ""
+            },
+        ],
+        "mood": "",
+        "sytle": "",
+        "start": 1980,
+        "end": 1984,
+        "image": "postpunk.svg",
+        "className": ""
+    }
+]

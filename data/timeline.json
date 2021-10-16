@@ -58,81 +58,88 @@
         "end": 1972,
         "image": "postpunk.svg",
         "className": ""
-    },{
+    },
+    {
         "order": 2,
         "era": "Ziggy Stardust",
         "albums": [
-        {
+            {
                 "title": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
                 "filename": "ziggystardust.txt",
                 "songs": [
-                    "Five Years" ,
-                    "Soul Love" ,
-                    "Moonage Daydream" ,
-                    "Starman" ,
-                    "It Ain't Easy" ,
-                    "Lady Stardust" ,
+                    "Five Years",
+                    "Soul Love",
+                    "Moonage Daydream",
+                    "Starman",
+                    "It Ain't Easy",
+                    "Lady Stardust",
                     "Star",
                     "Hang On to Yourself",
-                    "Ziggy Stardust" ,
+                    "Ziggy Stardust",
                     "Suffragette City",
-                    "Rock 'n' Roll Suicide" 
+                    "Rock 'n' Roll Suicide"
                 ],
-                 "background": [
-                 "The album's lyrics discuss the artificiality of rock music in general, political issues, drug use, sexual orientation and stardom"
-                 ], 
-                 "releaseMonth": "June",
+                "background": [
+                    "The album's lyrics discuss the artificiality of rock music in general, political issues, drug use, sexual orientation and stardom"
+                ],
+                "releaseMonth": "June",
                 "releaseYear": 1972,
                 "cover": "",
                 "link": "https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_Ziggy_Stardust_and_the_Spiders_from_Mars"
-            }], "mood": "",
+            }
+        ],
+        "mood": "",
         "sytle": "",
         "start": 1972,
         "end": 1973,
         "image": "postpunk.svg",
         "className": ""
-    },  
+    },
     {
         "order": 3,
         "era": "Aladdin Sane",
         "albums": [
-        {
+            {
                 "title": "Alladin Sane",
                 "filename": "alladinsane.txt",
                 "songs": [],
-                 "background": [
+                "background": [
                     "Aladdin Sane was the first album Bowie wrote and released from a position of stardom. He composed most of the tracks on the road during the US tour in late 1972. Because of this, many of the tracks were influenced by America, and his perceptions of the country.",
                     "Biographer Christopher Sandford believes the album showed that Bowie 'was simultaneously appalled and fixated by America'"
-                 ],
-                  "releaseMonth": "April",
+                ],
+                "releaseMonth": "April",
                 "releaseYear": 1973,
                 "cover": "",
                 "link": "https://en.wikipedia.org/wiki/David_Bowie_(1969_album)"
-            }], "mood": "",
+            }
+        ],
+        "mood": "",
         "sytle": "",
         "start": 1967,
         "end": 1972,
         "image": "postpunk.svg",
         "className": ""
-    },{
+    },
+    {
         "order": 4,
         "era": "Man Who Sold The World",
         "albums": [
-        {
+            {
                 "title": "David Bowie",
                 "filename": "davidbowie.txt",
                 "songs": [],
-                 "background": [], "releaseMonth": "November",
+                "background": [],
+                "releaseMonth": "November",
                 "releaseYear": 1970,
                 "cover": "",
                 "link": "https://en.wikipedia.org/wiki/David_Bowie_(1969_album)"
-            }], "mood": "",
+            }
+        ],
+        "mood": "",
         "sytle": "",
         "start": 1967,
         "end": 1972,
         "image": "postpunk.svg",
         "className": ""
     }
-                 
-            
 ]

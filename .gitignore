@@ -77,3 +77,8 @@ typings/
 config/credentials.json
 paperbackwriter.js
 lyricsfinder.js
+package-lock.json
+config.json
+app.js
+public/index.html
+tracklister.js

@@ -56,7 +56,7 @@
         "sytle": "",
         "start": 1970,
         "end": 1972,
-        "image": "postpunk.svg",
+        "image": "oddity.svg",
         "className": ""
     },
     {
@@ -92,7 +92,7 @@
         "sytle": "",
         "start": 1972,
         "end": 1973,
-        "image": "postpunk.svg",
+        "image": "ziggy.svg",
         "className": ""
     },
     {
@@ -100,7 +100,7 @@
         "era": "Aladdin Sane",
         "albums": [
             {
-                "title": "Alladin Sane",
+                "title": "Aladdin Sane",
                 "filename": "alladinsane.txt",
                 "songs": [],
                 "background": [
@@ -111,35 +111,241 @@
                 "releaseYear": 1973,
                 "cover": "",
                 "link": "https://en.wikipedia.org/wiki/David_Bowie_(1969_album)"
+            },
+            {
+                "title": "Diamond Dogs",
+                "filename": "diamondogs.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "May",
+                "releaseYear": 1974,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/Diamond_Dogs"
             }
         ],
         "mood": "",
         "sytle": "",
         "start": 1967,
-        "end": 1972,
-        "image": "postpunk.svg",
+        "end": 1974,
+        "image": "aladdin.svg",
         "className": ""
     },
     {
         "order": 4,
-        "era": "Man Who Sold The World",
+        "era": "Thin White Duke",
         "albums": [
             {
-                "title": "David Bowie",
-                "filename": "davidbowie.txt",
+                "title": "Young Americans",
+                "filename": "youngamericans.txt",
                 "songs": [],
                 "background": [],
-                "releaseMonth": "November",
-                "releaseYear": 1970,
+                "releaseMonth": "March",
+                "releaseYear": 1975,
                 "cover": "",
-                "link": "https://en.wikipedia.org/wiki/David_Bowie_(1969_album)"
+                "link": "https://en.wikipedia.org/wiki/Young_Americans"
+            }, {
+                "title": "Station to Station",
+                "filename": "stationtostation.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "January",
+                "releaseYear": 1976,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/Station_to_Station"
             }
         ],
         "mood": "",
         "sytle": "",
-        "start": 1967,
-        "end": 1972,
-        "image": "postpunk.svg",
+        "start": 1974,
+        "end": 1976,
+        "image": "duke.svg",
+        "className": ""
+    },{
+        "order": 5,
+        "era": "Berlin Trilogy",
+        "albums": [
+            {
+                "title": "Low",
+                "filename": "low.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "January",
+                "releaseYear": 1977,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/Low_(David_Bowie_album)"
+            }, {
+                "title": "Heroes",
+                "filename": "heroes.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "October",
+                "releaseYear": 1977,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/%22Heroes%22_(David_Bowie_album)"
+            }, {
+                "title": "Lodger",
+                "filename": "lodger.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "March",
+                "releaseYear": 1979,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/Lodger_(album)"
+            }
+        ],
+        "mood": "",
+        "sytle": "",
+        "start": 1976,
+        "end": 1980,
+        "image": "berlin.svg",
+        "className": ""
+    },{
+        "order": 6,
+        "era": "Pierrot",
+        "albums": [
+            {
+                "title": "Scary Monsters (and Super Creeps)",
+                "filename": "scarymonsters.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "September",
+                "releaseYear": 1980,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/Scary_Monsters_(and_Super_Creeps)"
+            }
+        ],
+        "mood": "",
+        "sytle": "",
+        "start": 1980,
+        "end": 1983,
+        "image": "pierrot.svg",
+        "className": ""
+    },{
+        "order": 7,
+        "era": "Modern Love",
+        "albums": [
+            {
+                "title": "Let's Dance",
+                "filename": "letsdance.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "March",
+                "releaseYear": 1983,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/Let%27s_Dance_(David_Bowie_album)"
+            },{
+                "title": "Tonight",
+                "filename": "tonight.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "September",
+                "releaseYear": 1984,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/Tonight_(David_Bowie_album)"
+            },{
+                "title": "Never Let Me Down",
+                "filename": "never.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "April",
+                "releaseYear": 1987,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/Never_Let_Me_Down"
+            }
+        ],
+        "mood": "",
+        "sytle": "",
+        "start": 1983,
+        "end": 1995,
+        "image": "modern.svg",
+        "className": ""
+    },{
+        "order": 8,
+        "era": "Earhling",
+        "albums": [
+            {
+                "title": "Outisde",
+                "filename": "outside.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "September",
+                "releaseYear": 1995,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/Outside_(David_Bowie_album)"
+            },{
+                "title": "Earthling",
+                "filename": "earhling.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "September",
+                "releaseYear": 1995,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/Earthling_(album)"
+            },{
+                "title": "Hours",
+                "filename": "hours.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "October",
+                "releaseYear": 1999,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/Hours_(David_Bowie_album)"
+            },{
+                "title": "Heathen",
+                "filename": "heathen.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "June",
+                "releaseYear": 2002,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/Heathen_(David_Bowie_album)"
+            },{
+                "title": "Reality",
+                "filename": "reality.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "September",
+                "releaseYear": 2003,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/Reality_(David_Bowie_album)"
+            }
+        ],
+        "mood": "",
+        "sytle": "",
+        "start": 1992,
+        "end": 2013,
+        "image": "earthling.svg",
+        "className": ""
+    },{
+        "order": 9,
+        "era": "Lazarus",
+        "albums": [
+            {
+                "title": "The Next Day",
+                "filename": "thenextday.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "March",
+                "releaseYear": 2013,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/The_Next_Day"
+            },{
+                "title": "Blackstar",
+                "filename": "blackstar.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "January",
+                "releaseYear": 2015,
+                "cover": "",
+                "link": "https://en.wikipedia.org/wiki/Blackstar_(album)"
+            }
+        ],
+        "mood": "",
+        "sytle": "",
+        "start": 2013,
+        "end": 2016,
+        "image": "lazarus.svg",
         "className": ""
     }
 ]
+
